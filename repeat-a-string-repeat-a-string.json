@@ -1,0 +1,1 @@
+{"index.js":"function repeatStringNumTimes(str, num) {\n  var accumulatedStr = '';\n\n  while (num > 0) {\n    accumulatedStr += str;\n    num--;\n  }\n\n  return accumulatedStr;\n}"}
